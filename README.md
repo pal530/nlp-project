@@ -1,4 +1,4 @@
-# nlp-project
+# NLP-project
 Designing a Word Predictive system using LSTM
 
 Check out this article for the complete breakdown of the code - https://towardsdatascience.com/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf
